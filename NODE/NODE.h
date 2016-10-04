@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char NODEVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <NODE/PublicHeader.h>
 
-#import <NODE_/NSObject+NODE.h>
+#import <BB_NODE_/NSObject+NODE.h>
